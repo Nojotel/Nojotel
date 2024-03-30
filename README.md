@@ -24,34 +24,34 @@
 ### 1. Проект "Синий куб"
 
 - **Описание:** Реализация проекта с использованием Next.js для интернет-магазина.
-- **Ссылка на сайт:** Синий куб
-- **Ссылка на код:** GitHub
+- **Ссылка на сайт:** [Синий куб](https://blue-cube-kohl.vercel.app/)
+- **Ссылка на код:** [GitHub](https://github.com/Nojotel/blue_cube)
 
 ### 2. Участие в проекте "Ai-revolution"
 
-- **Ссылка на сайт:** Ai-revolution
-- **Ссылка на код:** GitHub
+- **Ссылка на сайт:** [Ai-revolution](https://creacraft.vercel.app/auth/login)
+- **Ссылка на код:** [GitHub](https://github.com/Nojotel/Ai-revolition)
 
 ### 3. Интерактивный Голосовой Помощник
 
 - **Описание:** Приложение для выставки non/fiction№25.
-- **Ссылка на сайт:** Интерактивный Голосовой Помощник
-- **Ссылка на код:** GitHub
+- **Ссылка на сайт:** [Интерактивный Голосовой Помощник](https://nojotel.github.io/EKSMO/)
+- **Ссылка на код:** [GitHub](https://github.com/Nojotel/EKSMO)
 
 ### 4. Лендинг "Дезориентация"
 
 - **Описание:** Одностраничный лендинг с чат-ботом, айдентика мероприятий и стикерпаком.
-- **Ссылка на сайт:** Дезориентация
-- **Ссылка на код:** GitHub
+- **Ссылка на сайт:** [Дезориентация](https://nojotel.github.io/Dezorientaciya/)
+- **Ссылка на код:** [GitHub](https://github.com/Nojotel/Dezorientaciya)
 
 ### 5. Сайт книжного магазина
 
 - **Описание:** Работа с API для загрузки данных о книгах, использование LocalStorage, адаптивная верстка, работа с Webpack, Sass, PUG.
-- **Ссылка на сайт:** Книжный магазин
-- **Ссылка на код:** GitHub
+- **Ссылка на сайт:** [Книжный магазин](https://nojotel.github.io/Bookshop-site/)
+- **Ссылка на код:** [GitHub](https://github.com/Nojotel/Bookshop)
 
 ### 6. Приложение для поиска авиабилетов
 
 - **Описание:** Разработка приложения с использованием React, Redux Toolkit, TypeScript.
-- **Ссылка на сайт:** Поиск авиабилетов
-- **Ссылка на код:** GitHub
+- **Ссылка на сайт:** [Поиск авиабилетов](https://airlines-sigma.vercel.app/)
+- **Ссылка на код:** [GitHub](https://github.com/Nojotel/airlines)
